@@ -9,7 +9,7 @@ title: CIS 194 한글
 월요일 1시 30분 ~ 3시  
 타운 309호
 
-수업 Piazz 사이트
+수업 Piazza 사이트
 
 강사: 브렌트 요르기(Brent Yorgey)
 
